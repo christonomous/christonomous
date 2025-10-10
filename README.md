@@ -7,25 +7,25 @@
 
 <p align="left"> <a href="https://twitter.com/christonomous" target="blank"><img src="https://img.shields.io/twitter/follow/christonomous?logo=twitter&style=for-the-badge" alt="christonomous" /></a> </p>
 
-- 🔭 I’m currently working on [a trading bot](https://github.com/zillionsapp)
+- 🔭 I’m currently working on [a trading bot](https://github.com/zillionsapp).
 
-- 🌱 I’m currently learning **several algo trading strategies.**
+- 🌱 I’m currently learning **several algo trading strategies**.
 
-- 👯 I’m contributing to [a DeFi App](https://github.com/Starshot-Money/)
+- 👯 I’m contributing to [a DeFi App](https://github.com/Starshot-Money/).
 
-- 🤝 I’m looking for help with [a custom Proof of Vault blockchain](https://github.com/autonomousEnterprises/)
+- 🤝 I’m looking for help with [a custom Proof of Vault blockchain](https://github.com/autonomousEnterprises/).
 
-- 👨‍💻 All of my projects are available at [https://chris.berlin](https://chris.berlin)
+- 👨‍💻 All of my projects are available at [https://chris.berlin](https://chris.berlin).
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
-- 💬 Ask me anything about **Web3, DAOs & DeFi**
+- 💬 Ask me anything about **Web3, DAOs & DeFi**.
 
-- 📫 How to reach me **https://calendly.com/chrisberlin/session**
+- 📫 You can reach me **[LinkedIn](https://www.linkedin.com/in/christonomous/)** or **[X.com](https://twitter.com/christonomous)**.
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
-- ⚡ Facts about me **I've started as a Call Agent, became a Developer and now Founding AI & Crypto businesses**
+- ⚡ Facts about me **I've started as a Call Agent, became a Developer and now I'm founding AI & Crypto businesses**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
