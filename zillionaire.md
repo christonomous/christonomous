@@ -16,7 +16,7 @@ The trading bot core and user application are fully open source, enabling transp
 Most trading bots I've encountered suffer from the same fundamental flaws:
 
 - **Overengineered Complexity**: Features piled on features, making them impossible for non-developers to configure or understand
-- **Missing Core Features**: Lack of proper backtesting, replay capabilities, or realistic paper trading
+- **Missing Core Features**: Lack of proper backtesting, replay capabilities, and realistic paper trading combined.
 - **Poor Architecture**: Monolithic codebases that can't scale or adapt to new exchanges
 - **Marketing Over Substance**: More focused on flashy demos than actual trading performance
 
