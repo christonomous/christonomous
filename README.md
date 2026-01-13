@@ -19,13 +19,13 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
-- 💬 Ask me anything about **Web3, DAOs & DeFi**.
+- 💬 Ask me anything about **Web3, DAOs & DeFi, and Trading**.
 
 - 📫 You can reach me **[LinkedIn](https://www.linkedin.com/in/christonomous/)** or **[X.com](https://twitter.com/christonomous)**.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
-- ⚡ Facts about me **I've started as a Call Agent, became a Developer and now I'm founding AI & Crypto businesses**.
+- ⚡ Facts about me **I've started as a Call Agent, became a Developer and Founder, and now I am deeply into Trading**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
