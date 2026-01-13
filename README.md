@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies, so you can make money while you sleep.</h3>
 
+📖 Learn more about my [story](https://github.com/christonomous/christonomous/blob/main/STORY.md).
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christonomous&label=Profile%20views&color=0e75b6&style=flat" alt="christonomous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christonomous" alt="christonomous" /></a> </p>
@@ -24,8 +26,6 @@
 - 📫 You can reach me **[LinkedIn](https://www.linkedin.com/in/christonomous/)** or **[X.com](https://twitter.com/christonomous)**.
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
-
-- 📖 Learn more about me [STORY.md](https://github.com/christonomous/christonomous/blob/main/STORY.md).
 
 - ⚡ Facts about me **I've started as a Call Agent, became a Developer and Founder, and now I am deeply into Trading**.
 
