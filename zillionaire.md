@@ -5,7 +5,7 @@ I built a professional-grade trading bot that combines simplicity with power - f
 
 ## From Market Making to Meaningful Trading
 
-In 2022, I founded my first startup focused on market making bonds. While that venture taught me invaluable lessons about financial systems and trading dynamics, I always dreamed of creating something more impactful in the trading space. That dream became reality with Zillions - a trading bot that represents a complete departure from the typical "get rich quick" schemes flooding the market.
+In 2022, I founded my first startup focused on a **Yield-Generating Reserve** backed by **Active Treasury Arbitrage** called Cunoro Finance. While that venture taught me invaluable lessons about financial systems and trading dynamics, I always dreamed of creating something more impactful in the trading space. That dream became reality with Zillions - a trading bot that represents a complete departure from the typical "get rich quick" schemes flooding the market.
 
 What started as a personal tool for my own trading evolved into a platform I now share with my inner circle. This isn't another overhyped trading bot promising unrealistic returns; it's a genuine, battle-tested system built from the ground up with real trading principles.
 
