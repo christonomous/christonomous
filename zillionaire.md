@@ -3,7 +3,7 @@
 ## TLDR
 I built a professional-grade trading bot that combines simplicity with power - featuring easy strategy implementation, comprehensive backtesting, live historical replay, paper trading simulation, and a proprietary Smart Money Concept (SMC) strategy. Unlike overengineered bots, it's designed to be as simple to use as PayPal while being production-ready for decentralized exchanges.
 
-> *The tagline "Zillionaire" is actually ironically meant, but I call my Zillions.app users zillionaires.*
+> *The tagline "Zillionaire" is actually ironically meant, but I call my (Zillions.app)[https://zillions.app] users Zillionaires.*
 
 ## From Market Making to Meaningful Trading
 
