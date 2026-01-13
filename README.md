@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I'm building Agentic Crypto, so you can let AI Agents make money onchain while you sleep.</h3>
+<h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies, so you can make money while you sleep.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christonomous&label=Profile%20views&color=0e75b6&style=flat" alt="christonomous" /> </p>
 
@@ -25,6 +25,8 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
+- 📖 Learn more about me [STORY.md](https://github.com/christonomous/christonomous/blob/main/STORY.md).
+
 - ⚡ Facts about me **I've started as a Call Agent, became a Developer and Founder, and now I am deeply into Trading**.
 
 <h3 align="left">Connect with me:</h3>
@@ -41,4 +43,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christonomous&show_icons=true&locale=en&layout=compact" alt="christonomous" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christonomous&show_icons=true&locale=en" alt="christonomous" /></p>
-
