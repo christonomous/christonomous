@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies, so you can *become a zillionaire*.</h3>
+<h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies, so you can become a zillionaire.</h3>
 
 > *The tagline "Zillionaire" is actually ironically meant, but I call my [Zillions.app](https://zillions.app) users Zillionaires.*
 
