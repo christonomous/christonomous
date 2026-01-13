@@ -120,3 +120,5 @@ For my inner circle, Zillions offers access to institutional-grade trading techn
 What truly sets Zillions apart is its powerful risk management system - so robust that even the standard strategies included out of the box can minimize losses while generating consistent gains. This isn't about flashy algorithms; it's about creating a foundation where disciplined trading principles ensure profitability regardless of the strategy chosen.
 
 The journey from my first startup to Zillions has taught me that meaningful innovation comes from solving real problems for real users. In a world of overpromising and underdelivering, Zillions stands as proof that you can build something exceptional by staying true to principles of simplicity, transparency, and genuine value.
+
+You can find the open source version here: https://github.com/zillionsapp
