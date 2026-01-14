@@ -30,4 +30,4 @@ So, I stopped focusing on my agency and started developing strategies with every
 
 I started trading with prop firm accounts and developed everything from scratch with the goal to start the year 2026 with my trading bot.
 
-So here I am, and I'm looking forward to building towards my dream.
+So here I am, and I'm looking forward to building towards the future.
