@@ -8,7 +8,7 @@ My first crypto startup was **Cunoro Finance**, a **Yield-Generating Reserve** b
 
 ## Ecosis Network and Learning Experiences
 
-Since then, in 2024/2025, I founded another startup called Ecosis Network (now Autonomous Enterprises, but in stealth mode). This was a DPoS Blockchain where transaction fees get redistributed among users, creating a new kind of marketplace where participants get rewarded. Unfortunately, it never gained significant traction, but we participated in the Blockchain Founders Group acceleration program, though the investors finally did not invest in us. During this period, I connected with amazing people and learned a lot about business.
+Since then, in 2024/2025, I founded another startup called **ecosis Network** (now Autonomous Enterprises, but in stealth mode). This was a DPoS Blockchain where transaction fees get redistributed among users, creating a new kind of marketplace where participants get rewarded. Unfortunately, it never gained significant traction, but we participated in the Blockchain Founders Group acceleration program, though the investors finally did not invest in us. During this period, I connected with amazing people and learned a lot about business.
 
 While working on **ecosis Network**, I had the pleasure of getting promoted by the Lisk Berlin Blockchain Center on how such platforms could be used for artists. Here's a YouTube video showcasing that: [https://youtu.be/vn4Z-F8iuWg?si=WaicBD1wBexoNtUN](https://youtu.be/vn4Z-F8iuWg?si=WaicBD1wBexoNtUN).
 
