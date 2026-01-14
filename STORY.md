@@ -16,7 +16,7 @@ While working on **ecosis Network**, I had the pleasure of getting promoted by t
 
 I learned a lot from these experiences. In 2024, I jumped on the AI wave and founded an AI Automation Agency called [Revoro Consulting](https://revoro.consulting/) (formerly Brane Media). I built marketing funnel automations, chatbots, and more for companies like KüchenDesk, Twist Media Group and more. I also became an advisor for the Startup Starhot Money building a DeFi app. Through this, I learned extensively about AI development, prompt engineering, and automating processes.
 
-One of my first experiences building automations was for Heckmann Anwaltskanzleia long time, automating a filesystem for a lawyer firm to reduce manual work.
+One of my first experiences building automations was for Heckmann Anwaltskanzlei a long time, automating a filesystem for a lawyer firm to reduce manual work.
 
 ## Returning to My True Passion
 
