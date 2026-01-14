@@ -4,7 +4,7 @@ I am not just an agentic crypto enthusiast. I am building an onchain trading bot
 
 ## My First Crypto Startup
 
-My first crypto startup was **Cunoro Finance**, a **Yield-Generating Reserve** backed by **Active Treasury Arbitrage**. It was technically an Olympus DAO Fork but customized to fit our vision. Unfortunately, during the crypto winter of 2022, I couldn't sustain the $74k market cap. But I knew I would have a comeback by building an advanced onchain trading bot.
+My first crypto startup was **Cunoro Finance**, a **Yield-Generating Reserve** backed by **Active Treasury Arbitrage**. It was technically an [Olympus DAO](https://www.olympusdao.finance/) Fork but customized to fit our vision. Unfortunately, during the crypto winter of 2022, I couldn't sustain the $74k market cap. But I knew I would have a comeback by building an advanced onchain trading bot.
 
 ## Ecosis Network and Learning Experiences
 
