@@ -3,7 +3,7 @@
 
 > *The tagline "Zillionaire" is actually ironically meant, but I call my [Zillions.app](https://zillions.app) users Zillionaires.*
 
-📖 Learn more about my [story](https://github.com/christonomous/christonomous/blob/main/STORY.md).
+📖 Learn more about my [story](https://medium.com/@christonomous/from-crypto-startups-to-building-an-advanced-onchain-trading-bot-54a2ec1a2f6b).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christonomous&label=Profile%20views&color=0e75b6&style=flat" alt="christonomous" /> </p>
 
