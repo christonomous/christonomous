@@ -17,7 +17,7 @@
 
 - 👯 I’m contributing to [a DeFi App](https://github.com/Starshot-Money/).
 
-- 🤝 I’m looking for help with [a custom Proof of Vault blockchain](https://github.com/autonomousEnterprises/).
+- 🤝 I’m looking for help with [a custom Proof of Vault blockchain for AI Agents running onchain](https://github.com/autonomousEnterprises/).
 
 - 👨‍💻 All of my projects are available at [https://chris.berlin](https://chris.berlin).
 
@@ -29,7 +29,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
-- ⚡ Facts about me **I've started as a Call Agent, became a Developer and Founder, and now I am deeply into Trading**.
+- ⚡ Facts about me **I've started as a Call Agent, became a Developer and Founder, and now I am deeply into Trading and AI Automation**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
