@@ -10,7 +10,7 @@ I see myself as a Product Architect. I learned to code so I could build my own v
 
 I believe we are moving toward a world where traditional labor fundamentally disappears. In this future, society will be fully automated and decentralized. The 'standard' role for a citizen will be to own parts of protocols and earn from them - making everyone, in a sense, a passive investor or trader.
 
-This is why I do the work I do and why I love this path. My current project—an automated trading framework - is designed to be a bridge to that future. It is a tool to help people navigate a financial market that is only getting more complex. I feel privileged to possess a skill set that doesn't just understand this automated future but is actively building the infrastructure to support it.
+This is why I do the work I do and why I love this path. My current project - an automated trading framework - is designed to be a bridge to that future. It is a tool to help people navigate a financial market that is only getting more complex. I feel privileged to possess a skill set that doesn't just understand this automated future but is actively building the infrastructure to support it.
 
 📖 Learn more about my [story](https://medium.com/@christonomous/from-crypto-startups-to-building-an-advanced-onchain-trading-bot-54a2ec1a2f6b).
 
