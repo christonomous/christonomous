@@ -4,7 +4,7 @@
 ## The Visionary Architect
 My journey has been defined by a single mission: creating the tools that allow people to participate in the future of finance. I began in IT not out of a love for syntax, but because I knew software was the only way to build the solutions I envisioned. When I discovered blockchain in 2018, I fell in love with the idea of 'programming money.'
 
-Over the years, I have navigated the landscape as an entrepreneur, developer, and trader. While some of my startups didn't reach the finish line, they provided me with an invaluable 'executive masterclass.' I learned the grit of product management, the art of the investor pitch, and the cold reality of how markets and startup ecosystems actually function.
+Over the years, I have navigated the landscape as an entrepreneur, developer, and trader. While some of my startups didn't reach the finish line, they provided me with an invaluable 'executive masterclass.' I learned the grit of product management and the cold reality of how markets and startup ecosystems actually function.
 
 I see myself as a Product Architect. I learned to code so I could build my own visions, but my true strength lies in understanding the abstract logic of systems. I find the digital and financial worlds more intuitive than the physical one.
 
