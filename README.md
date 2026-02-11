@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies.</h3>
+<h3 align="center">I am an analyst and developer building an onchain trading bot with advanced smart money concepts and orderflow strategies.</h3>
 
 ## The Macro Analyst
 I leverage Python to perform deep macroeconomic analysis, sharing my insights through articles on LinkedIn and Medium. My work combines traditional market research with advanced AI-driven data analysis to generate complex charts and high-quality content.
