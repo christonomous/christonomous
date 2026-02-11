@@ -30,7 +30,7 @@ This is why I do the work I do and why I love this path. My current project - an
 
 - 🤝 I’m looking for help with [a custom Proof of Vault blockchain for AI Agents running onchain](https://github.com/autonomousEnterprises/).
 
-- 👨‍💻 All of my projects are available at [https://chris.berlin](https://chris.berlin).
+- 👨‍💻 All of my projects are available at [https://chris.zillions.app](https://chris.zillions.app).
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/christonomous/](https://www.linkedin.com/in/christonomous/).
 
