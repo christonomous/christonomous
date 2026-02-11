@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am building an onchain trading bot with advanced smart money concepts and orderflow strategies.</h3>
 
+## The Macro Analyst
+I leverage Python to perform deep macroeconomic analysis, sharing my insights through articles on LinkedIn and Medium. My work combines traditional market research with advanced AI-driven data analysis to generate complex charts and high-quality content.
+
+Having been active in the blockchain market since 2018, I moved deeply into capital markets following the launch of my first DeFi application in 2021. Since 2023, I have established myself as an expert in AI automation, specializing in the intersection of on-chain and off-chain data to decode global macro trends.
+
+📊 You can find my [Macroeconomic Analysis here](https://github.com/christonomous/MacroAnalytics) with Python.
+
+---
+
 ## The Visionary Architect
 My journey has been defined by a single mission: creating the tools that allow people to participate in the future of finance. I began in IT not out of a love for syntax, but because I knew software was the only way to build the solutions I envisioned. When I discovered blockchain in 2018, I fell in love with the idea of 'programming money.'
 
@@ -13,8 +22,6 @@ I believe we are moving toward a world where traditional labor fundamentally dis
 This is why I do the work I do and why I love this path. My current project - an automated trading framework - is designed to be a bridge to that future. It is a tool to help people navigate a financial market that is only getting more complex. I feel privileged to possess a skill set that doesn't just understand this automated future but is actively building the infrastructure to support it.
 
 📖 Learn more about my [story](https://medium.com/@christonomous/from-crypto-startups-to-building-an-advanced-onchain-trading-bot-54a2ec1a2f6b).
-
-📊 You can find my [Macroeconomic Analysis here](https://github.com/christonomous/MacroAnalytics) with Python
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christonomous&label=Profile%20views&color=0e75b6&style=flat" alt="christonomous" /> </p>
 
