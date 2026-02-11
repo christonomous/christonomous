@@ -14,6 +14,8 @@ This is why I do the work I do and why I love this path. My current project - an
 
 📖 Learn more about my [story](https://medium.com/@christonomous/from-crypto-startups-to-building-an-advanced-onchain-trading-bot-54a2ec1a2f6b).
 
+📊 You can find my [Macroeconomic Analysis here](https://github.com/christonomous/MacroAnalytics) with Python
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=christonomous&label=Profile%20views&color=0e75b6&style=flat" alt="christonomous" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=christonomous" alt="christonomous" /></a> </p>
