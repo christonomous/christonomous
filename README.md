@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I am building an AI OS for Onchain Sovereignty—bridging local AI autonomy with decentralized economic empowerment.</h3>
-> My mission is to make the new economy accessible to everyone
+<p align="center"><i>"My mission is to make the new economy accessible to everyone"</i></p>
 
 ## AI OS for Onchain Sovereignty
 
