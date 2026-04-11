@@ -62,6 +62,8 @@ I am building an AI OS you can use in the web, on desktop/laptop, and on phone w
 
 <p align="left"> <a href="https://twitter.com/christonomous" target="blank"><img src="https://img.shields.io/twitter/follow/christonomous?logo=twitter&style=for-the-badge" alt="christonomous" /></a> </p>
 
+- 🔭 I’m currently working on [a local smart autonomous AI agent](https://github.com/christonomous/NujinLocal).
+
 - 🔭 I’m currently working on [a trading bot](https://github.com/zillionsapp).
 
 - 🌱 I’m currently learning **several algo trading strategies**.
