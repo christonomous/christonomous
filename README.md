@@ -44,11 +44,9 @@ I distilled this entire journey, the mathematical proofs, empirical 140-year his
 
 ## 🏗️ What I Am Actively Building
 
-- 📖 **[Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)** — The open-source book and blueprint for decentralized human liberation.
-- 🧠 **[NujinLocal](https://github.com/christonomous/NujinLocal)** — Autonomous, local AI agents for sovereign intelligence and market monitoring.
-- ⚡ **[Zillions App / Trading Bots](https://github.com/zillionsapp)** — Defensive quantitative algorithmic systems with hardcoded risk boundaries.
-- 🔗 **[Starshot Money](https://github.com/Starshot-Money/)** — Decentralized financial infrastructure designed for genuine economic participation.
-- 🌐 **[Autonomous Enterprises](https://github.com/autonomousEnterprises/)** — Proof of Vault & decentralized execution protocols for onchain AI agents.
+- 📖 **[Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)** — The open-source book and philosophical blueprint for decentralized human liberation.
+- 🧠 **[nujinAI](https://github.com/autonomousEnterprises/nujinSkills/)** — The AI framework engineered to develop, test, and optimize profitable, risk-defensive trading strategies.
+- ⚡ **[Zillions](https://github.com/zillionsapp)** — The first autonomous trading bot built on top of the nujinAI framework, designed for steady baseline income and capital preservation.
 
 ---
 
