@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chris (@christonomous)</h1>
-<h3 align="center">Hacking the Financial Matrix for Human Sovereignty</h3>
+<h3 align="center">DeFAI OS — Making Automated Finance Accessible to Everyone</h3>
 <p align="center">
-  <i>"The defining struggle of our era is not Left vs. Right. It is Top vs. Bottom. We are using code, AI, and liquidity to permanently liberate humanity from economic blackmail."</i>
+  <i>"Wealth should be a right for everyone, not just a few. Traditional UBI won't solve this—the solution is hidden in the financial markets."</i>
 </p>
 
 <p align="center">
+  <a href="https://github.com/autonomousEnterprises/nujinSkills/"><img src="https://img.shields.io/badge/🧠%20NujinAI-AI%20Quant%20Engine-10b981?style=for-the-badge" alt="NujinAI" /></a>
   <a href="https://github.com/christonomous/CodeCapitalFreedom"><img src="https://img.shields.io/badge/📖%20Read%20The%20Book-Code%2C%20Capital%20%26%20Freedom-blue?style=for-the-badge" alt="Read the Book" /></a>
   <a href="https://twitter.com/christonomous"><img src="https://img.shields.io/twitter/follow/christonomous?logo=twitter&style=for-the-badge&color=0e75b6" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/christonomous"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
@@ -12,52 +13,35 @@
 
 ---
 
-## ⚡ The Manifesto: Why I Build What I Build
+## 🧭 My Journey
 
-Almost every human being on this planet spends the majority of their waking life trapped in latent existential fear—forced to trade their irreplaceable lifetime for mere material survival. We argue over partisan ideologies, divide ourselves into hostile factions, and miss the elephant in the room:
+A story of relentless learning, bold pivots, and the unwavering belief in automating the future for everyone.
 
-> **The fault line of our world does not run between Left and Right.**  
-> **It runs between TOP and BOTTOM—between the handful of mega-institutions that control global capital, and billions of vulnerable, blackmailable citizens.**
-
-After more than a decade on this quest—from high school dropout to self-taught software developer, through left-wing idealism, founding my own decentralized blockchain startup (*Ecosis Network*), and finally facing the brutal reality of quantitative financial markets—one truth became undeniable: **Moral appeals do not change the world.**
-
-You cannot tear down a global system from the outside. You must master its inner mechanics and reverse their polarity.  
-This is the **Trojan Horse of Capital**:  
-We leverage algorithmic trading, advanced AI, and decentralized onchain infrastructure to place Wall Street’s most powerful weapons directly into the hands of ordinary people.
+* **The Foundation Years** — I always believed in automating the future and building a world that belongs to the people. My journey began as a call agent for web hosting and server administration. Even then, I knew everything I learned would become the foundation for understanding the technologies that shape our future.
+* **The Freelance Bridge** — Those early experiences became my vehicle. I transitioned into freelancing, mastering software development, product design, business operations, and branding. Each skill wasn't just a job—it was another tool for understanding how technology can serve humanity.
+* **The Crypto Awakening** — When I entered crypto, I knew I wanted to build machines that make money. I launched **Cunoro Finance** with its deflationary token *Bend*—an on-chain bonding treasury for arbitrage trading—and founded **ecosis Network**, now rebranded to **Autonomous Enterprises**.
+* **The Perfect Storm** — Every chapter wasn't random; it was preparation. Today, I'm combining software development, product design, business operations, AI, finance, and branding to make **automated finance accessible to everyone**. I believe wealth should be a right for all, not a privilege for a few—and since Universal Basic Income won't work like this, the real solution is hidden in the financial markets. Decentralization is a side goal, because I believe in ownership for all, not just for the few.
 
 ---
 
-## 📚 My Open-Source Book: "Code, Kapital & Freiheit"
-*(English Edition Coming Soon)*
+## 🧠 NujinAI: Turn AI Agents into Quantitative Trading Engines
 
-I distilled this entire journey, the mathematical proofs, empirical 140-year historical studies, and the engineering blueprint for automated human sovereignty into an open-source book:
+Stop falling into retail traps. **[NujinAI](https://github.com/autonomousEnterprises/nujinSkills/)** is an open-source AI Quant Skill (100% free) designed as a true trading framework from A to Z:
 
-👉 **[📖 Read the Book on GitHub: Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)**
+1. **Uncover Market Inefficiencies** — Systematic quantitative research instead of guesswork.
+2. **Develop & Battle-Test Strategies** — Rigorous backtesting and risk-defensive validation.
+3. **Deploy & Track Real Performance** — Autonomous execution and live performance tracking.
 
-* **Part I: The Diagnosis** — The hamster wheel of existential dread (*Harvard Scarcity Proof*), the collapse of legacy ideologies, the end of 40-hour wage labor by AI, and the Extremism Paradox (140 years of elections & financial crises).
-* **Part II: The Mechanics** — What money truly is (programmable information) and why trading is the essential *engine oil* of human civilization (price discovery, risk transfer/hedging, liquidity).
-* **Part III: The Weapon** — Leveling the playing field through open-source AI, mathematical defense against human greed (*Hardcoded Guardrails*), and invisible background infrastructure.
-* **Part IV: The Common Good** — How the Law of Diminishing Margins turns the market into a stable, quiet *Swiss watch* that distributes unconditional baseline freedom.
-* **The Feasibility Proof** — The actionable, 3-stage roadmap our generation can execute immediately.
+### The Ecosystem Roadmap
+`nujinSkill` → `nujinAgent` → `nujinDesktop` → `nujinOS` → `nujinPhone`
 
 ---
 
 ## 🏗️ What I Am Actively Building
 
-- 📖 **[Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)** — The open-source book and philosophical blueprint for decentralized human liberation.
-- 🧠 **[nujinAI](https://github.com/autonomousEnterprises/nujinSkills/)** — The AI framework engineered to develop, test, and optimize profitable, risk-defensive trading strategies.
-- ⚡ **[Zillions](https://github.com/zillionsapp)** — The first autonomous trading bot built on top of the nujinAI framework, designed for steady baseline income and capital preservation.
-
----
-
-## 🛠️ Tech Stack & Weapons of Choice
-
-```
-Languages:     TypeScript, JavaScript, Python, Rust, Solidity
-Frameworks:    Node.js, Vue.js, Nuxt.js, TailwindCSS
-Data & AI:     TensorFlow, Quant Libraries, CouchDB, PostgreSQL, Redis
-Ecosystem:     Web3, Decentralized Liquidity, Algo-Trading, REST/WS APIs
-```
+- 🧠 **[NujinAI](https://github.com/autonomousEnterprises/nujinSkills/)** — Open-source AI Quant Skill turning AI agents into quantitative trading engines.
+- ⚡ **[Zillions](https://github.com/zillionsapp)** — The first autonomous trading bot built on top of the NujinAI framework, engineered for steady baseline income and capital preservation.
+- 📖 **[Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)** — My open-source book and blueprint for financial freedom and ownership for all.
 
 ---
 
@@ -71,10 +55,4 @@ Ecosystem:     Web3, Decentralized Liquidity, Algo-Trading, REST/WS APIs
   <a href="https://linkedin.com/in/christonomous" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/christonomous" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
   <a href="https://youtube.com/c/christonomous" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>"We do not need to wait for politicians. The tools are on the table. The code is writable. For our freedom, for our children, and for their children."</i>
 </p>
