@@ -41,7 +41,7 @@ Stop falling into retail traps. **[NujinAI](https://github.com/autonomousEnterpr
 
 - 🧠 **[NujinAI](https://github.com/autonomousEnterprises/nujinSkills/)** — Open-source AI Quant Skill turning AI agents into quantitative trading engines.
 - ⚡ **[Zillions](https://github.com/zillionsapp)** — The first autonomous trading bot built on top of the NujinAI framework, engineered for steady baseline income and capital preservation.
-- 📖 **[Code, Kapital & Freiheit](https://github.com/christonomous/CodeCapitalFreedom)** — My open-source book and blueprint for financial freedom and ownership for all.
+- 📖 **[Code, Capital & Freedom](https://github.com/christonomous/CodeCapitalFreedom)** — My open-source book and blueprint for financial freedom and ownership for all.
 
 ---
 
